@@ -1,4 +1,4 @@
-#TCP
+# TCP
 21 - FTP
 22 - SSH
 23 - Telnet
@@ -9,7 +9,7 @@
 139/ 445 - SMB
 143 - IMAP
 
-#UDP
+# UDP
 53 - DNS
 67/ 68 - DHCP
 69 - TFTP
