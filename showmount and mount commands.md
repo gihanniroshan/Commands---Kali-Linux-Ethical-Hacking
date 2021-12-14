@@ -1,7 +1,8 @@
-#'showmount' command 
-
+### showmount command 
+```
 showmount -e 10.2.2.2 
-(-e or --exports shows the export list)
+```
+(`-e` or `--exports` shows the export list)
 
 output
 /share        (everyone)
